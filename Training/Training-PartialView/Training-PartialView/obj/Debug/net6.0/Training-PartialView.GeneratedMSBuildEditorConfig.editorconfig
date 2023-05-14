@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Fiorello_backend
+build_property.RootNamespace = Fiorello_backend
+build_property.ProjectDir = C:\Users\User\Desktop\Materials\BackEnd\ASP.NET\ASPNET-PartialView-Ajax\Training\Training-PartialView\Training-PartialView\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\Materials\BackEnd\ASP.NET\ASPNET-PartialView-Ajax\Training\Training-PartialView\Training-PartialView
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/User/Desktop/Materials/BackEnd/ASP.NET/ASPNET-PartialView-Ajax/Training/Training-PartialView/Training-PartialView/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Materials/BackEnd/ASP.NET/ASPNET-PartialView-Ajax/Training/Training-PartialView/Training-PartialView/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Materials/BackEnd/ASP.NET/ASPNET-PartialView-Ajax/Training/Training-PartialView/Training-PartialView/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Materials/BackEnd/ASP.NET/ASPNET-PartialView-Ajax/Training/Training-PartialView/Training-PartialView/Views/Shared/_ExpertsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FeHBlcnRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Materials/BackEnd/ASP.NET/ASPNET-PartialView-Ajax/Training/Training-PartialView/Training-PartialView/Views/Shared/_ProductsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Materials/BackEnd/ASP.NET/ASPNET-PartialView-Ajax/Training/Training-PartialView/Training-PartialView/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Materials/BackEnd/ASP.NET/ASPNET-PartialView-Ajax/Training/Training-PartialView/Training-PartialView/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Materials/BackEnd/ASP.NET/ASPNET-PartialView-Ajax/Training/Training-PartialView/Training-PartialView/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Materials/BackEnd/ASP.NET/ASPNET-PartialView-Ajax/Training/Training-PartialView/Training-PartialView/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ta0ywf3ybc

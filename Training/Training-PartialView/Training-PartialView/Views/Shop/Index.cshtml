@@ -1,0 +1,27 @@
+﻿@model List<Product>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container" >
+    <h1 class="text-center my-2">Products</h1>
+
+    <section id="products" data-count="@ViewBag.count">
+        <div class="row" id="parent-elem">
+
+         <partial name="_ProductsPartial" />
+    </div>
+        <div class="row my-2 d-flex justify-content-center">
+            <button class="btn btn-primary show-more-btn">Show More</button>
+            <button class="btn btn-primary show-less-btn d-none">Show Less</button>
+        </div>
+    </section>
+    
+</div>
+
+
+@section Scripts {
+    <script src="~/owlcarousel/owl.carousel.min.js"></script>
+
+    <script src="~/js/shop.js"></script>
+}
